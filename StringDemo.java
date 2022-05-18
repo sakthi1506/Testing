@@ -2,7 +2,7 @@ package com.String;
 
 import java.util.Locale;
 
-// hello this not modify the account controllled v
+// good reedited file done!!!!
 
 public class StringDemo {
 
